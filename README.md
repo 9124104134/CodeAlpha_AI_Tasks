@@ -1,5 +1,4 @@
 # CodeAlpha_AI_Tasks
-# CodeAlpha Artificial Intelligence Internship Tasks
 
 This repository contains the completed Artificial Intelligence internship tasks assigned by CodeAlpha. The project showcases real-world implementations of Natural Language Processing (NLP), text similarity matching, and Computer Vision (CV) workflows.
 
